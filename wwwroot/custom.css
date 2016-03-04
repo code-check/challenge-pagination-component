@@ -1,0 +1,22 @@
+﻿.hidden {
+  display: none;
+}
+
+/*BEGIN_CHALLENGE*/
+.active {
+  color: red;
+}
+
+ul, li, button {
+  display: inline-block;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+/*END_CHALLENGE*/

@@ -1,0 +1,18 @@
+﻿{
+  "editable": [
+    "wwwroot/*"
+  ],
+  "excludes": [
+    "challenge.json",
+    ".gitignore",
+    ".gitattributes"
+  ],
+  "readme": {
+    "en": "README.md"
+  },
+  "test": "mocha specs",
+  "tags": [
+    "JavaScript",
+    "Component"
+  ]
+}
