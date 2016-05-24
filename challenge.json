@@ -1,18 +1,19 @@
 ﻿{
+  "tags": [
+    "JavaScript",
+    "Component"
+  ],
   "editable": [
+    ".gitignore",
     "wwwroot/*"
   ],
   "excludes": [
-    "challenge.json",
-    ".gitignore",
-    ".gitattributes"
+    "challenge.json"
   ],
   "readme": {
     "en": "README.md"
   },
-  "test": "mocha specs",
-  "tags": [
-    "JavaScript",
-    "Component"
-  ]
+  "main": "wwwroot/index.html",
+  "allowNewFile": true,
+  "test": "mocha specs"
 }
