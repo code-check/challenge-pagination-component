@@ -20,6 +20,11 @@ The pagination component must pass the following rules;
 - `btnPrev` must be used for moving the active item 1 position backwards.
 - `btnNext` must be used for moving the active item 1 position forward.
 
+### Tests
+Tests may help you to implement pagination component correctly.
+- [Pagination Test](specs/pagination.spec.js)
+- [Check if existing elements are modified](specs/required.spec.js)
+
 ### Test Results *before* solving the challenge  
 ```
 codecheck: Finish with code 2
